@@ -1,8 +1,9 @@
 <h1> **Angular Student Registration Form** </h1>
-**Project Overview**
+
+<h3> **Project Overview**</h3>
 This is a Student Registration Form built using Angular. It collects student details such as name, email, password, gender, date of birth, phone, department, skills, and address. The data is stored in a Supabase database after form submission.
 
-**Key Features:**
+<h4>**Key Features:**</h4>
 Form validation using Reactive Forms
 Multi-selection of skills using FormArray
 Integration with Supabase for database storage
