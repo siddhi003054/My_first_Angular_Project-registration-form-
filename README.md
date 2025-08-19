@@ -11,7 +11,7 @@ Integration with Supabase for database storage
 Navigation to a success page after registration
 Standalone Angular components and services
 
-###**Folder Structure**
+**<h3>Folder Structure</h3>**
 hello-world/
 ├─ src/app/
 │  ├─ registration/
@@ -27,24 +27,24 @@ hello-world/
 ├─ package.json
 └─ README.md
 
-**Technologies Used**
+**<h3>Technologies Used</h3>**
 Angular 20 (Standalone Components, Reactive Forms)
 Supabase (PostgreSQL Database as a Service)
 TypeScript
 HTML & CSS
 
-**How to Run Locally**
-**Clone the repository:**
+**<h3>How to Run Locally</h3>**
+**<h3>Clone the repository:</h3>**
 git clone https://github.com/siddhi003054/My_first_Angular_Project-registration-form-.git
 
-**Navigate into the project folder:**
+**<h3>Navigate into the project folder:</h3>**
 cd My_first_Angular_Project-registration-form-
 
-**Install dependencies:**
+**<h3>Install dependencies:</h3>**
 npm install
 
-**Start the Angular development server:**
+**<h3>Start the Angular development server:</h3>**
 ng serve
 
-**Open your browser at:**
+**<h3>Open your browser at:</h3>**
 http://localhost:4200
